@@ -1,4 +1,4 @@
-# Hotel-Bookings-Analysis-EDA-Project
+# Hotel-Bookings-Analysis-Exploratory Data Analysis
 ## Project description:
 Hotel Bookings Analysis project consists with the real - world data record of hotel bookings of a city hotel and a resort hotel for the period 2015 - 2017 respectively. The project data record consists of information such as type of hotel booked, average daily rate, booking details, arrival date, length of the stay, the number of adults, children, and / or babies booked, customer country, meal preferences, type of the customer, parking space details, reservation status, channels used for booking, booking cancellation details, booking lead time details, among other details. Data analysis and data visualization will be performed using Python libraries.
 
